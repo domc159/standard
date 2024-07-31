@@ -1,0 +1,785 @@
+: 1721477089:0;sudo pacman -Syu
+: 1721477155:0;sudo pacman -S firefox
+: 1721479140:0;nano .config/waybar/config
+: 1721479202:0;waybar
+: 1721479325:0;cd .config/waybar
+: 1721479326:0;ls
+: 1721479332:0;cd configs
+: 1721479419:0;ls
+: 1721480159:0;paru -S terminator
+: 1721480334:0;paru -S alacritty
+: 1721480474:0;nano .config/waybar/config
+: 1721480494:0;nano .config/waybar/style.css
+: 1721480657:0;waybar
+: 1721480794:0;nano .config/waybar/config
+: 1721480807:0;nano .config/waybar/style.css
+: 1721480958:0;waybar
+: 1721481400:0;waybar -kill
+: 1721481404:0;waybar --kill
+: 1721481414:0;reboot
+: 1721481806:0;nano .config/waybar/config
+: 1721481842:0;cd .config/waybar/configs
+: 1721481901:0;ls
+: 1721481974:0;..
+: 1721481977:0;ls
+: 1721481992:0;cd style
+: 1721481993:0;ls
+: 1721482020:0;nano '[Wallust Bordered] Chroma Fusion Edge.css'
+: 1721482057:0;..
+: 1721482134:0;cp style.css style/'[spacepirate-custom] sample'
+: 1721482138:0;cd style
+: 1721482139:0;ls
+: 1721482148:0;..
+: 1721482155:0;cp style.css style/'[spacepirate-custom] sample.css'
+: 1721482159:0;cd style
+: 1721482161:0;ll
+: 1721482180:0;rm '[spacepirate-custom] sample'
+: 1721482181:0;ll
+: 1721482279:0;..
+: 1721482279:0;ls
+: 1721482286:0;cd configs
+: 1721482287:0;ls
+: 1721482299:0;..
+: 1721482334:0;cp config configs/'[spacepirate-custom] sample'
+: 1721482591:0;cd configs
+: 1721482598:0;nano '[spacepirate-custom] sample'
+: 1721482606:0;..
+: 1721482609:0;ls
+: 1721482614:0;nano modules
+: 1721482655:0;nano .config/waybar/configs/\[spacepirate-custom\]\ sample
+: 1721487895:0;cd
+: 1721487913:0;nano .config/hypr/UserConfigs
+: 1721487923:0;nano .config/hypr/UserConfigs/UserKeybinds.conf
+: 1721487951:7;paru -S nemo
+: 1721488369:0;cd .config/waybar/configs
+: 1721488371:0;ls
+: 1721488375:0;nano config
+: 1721488388:0;cd
+: 1721488485:0;cd .config/hypr
+: 1721488486:0;ls
+: 1721488490:0;nano configs
+: 1721488498:0;nano hyprland.conf
+: 1721488505:0;cd configs
+: 1721488506:0;ls
+: 1721488507:0;ll
+: 1721488510:0;cd ..
+: 1721488526:0;ll
+: 1721488537:0;cd configs
+: 1721488538:0;ll
+: 1721488547:0;nano Settings.conf
+: 1721488562:0;nano Keybinds.conf
+: 1721489038:0;ls
+: 1721489040:0;cd ..
+: 1721489041:0;ls
+: 1721489082:0;cd configs
+: 1721489092:0;ls
+: 1721489097:0;cd ..
+: 1721489111:0;cd UserConfigs
+: 1721489112:0;ls
+: 1721489120:0;nano WorkspaceRules.conf
+: 1721489497:0;cd .config/hypr
+: 1721489645:0;ls
+: 1721489950:0;cd User
+: 1721489955:0;cd UserConfigs
+: 1721489956:0;ls
+: 1721489970:0;nano WindowRules.conf
+: 1721490617:0;nano UserSettings.conf
+: 1721490985:0;ls
+: 1721490987:0;cd ..
+: 1721490988:0;l
+: 1721490996:0;scd wallpaper_effects
+: 1721490997:0;ls
+: 1721491016:0;cd wallpaper_effects
+: 1721491017:0;ls
+: 1721491104:0;nano .wallpaper_current
+: 1721491179:0;..
+: 1721491180:0;l
+: 1721491181:0;s..
+: 1721491182:0;ll
+: 1721491188:0;cd wallust
+: 1721491191:0;ll
+: 1721491202:0;nano wallust-hyprland.conf
+: 1721491373:0;...
+: 1721491374:0;ls
+: 1721495163:0;cd .config/hypr
+: 1721495164:0;ls
+: 1721495173:0;cd UserScripts
+: 1721495174:0;ll
+: 1721495196:0;nano WallpaperSelect.sh
+: 1721495210:0;ll
+: 1721495215:0;cd Pictures
+: 1721495227:0;ll
+: 1721495231:0;nano wallpapers
+: 1721495235:0;ll
+: 1721495239:0;cd wallpapers
+: 1721495240:0;ll
+: 1721495630:0;paru -S fileroller
+: 1721495663:0;paru -S nemo-fileroller
+: 1721500087:0;cd git
+: 1721500126:0;ls
+: 1721500131:0;cd Arch-Hyprland
+: 1721500132:0;ls
+: 1721500133:0;ll
+: 1721500395:0;cd JaKooLit-Hyprland-Dots
+: 1721500397:0;ls
+: 1721500403:0;cd config
+: 1721500405:0;ll
+: 1721500417:0;cd waybar
+: 1721500419:0;ll
+: 1721500533:0;paru -S nnn
+: 1721500542:0;nnn
+: 1721503785:0;sudo pacman -S gimp
+: 1721504287:0;cd .config/hypr
+: 1721504291:0;nano hyprlock.conf
+: 1721504369:0;cd .config/hypr/wallpaper_effects
+: 1721504370:0;ls
+: 1721504371:0;ll
+: 1721504378:0;nano .wallpaper_modified
+: 1721505875:0;nano hypridle.conf
+: 1721508595:0;cd .config/waybar/configs
+: 1721508596:0;ls
+: 1721508623:0;mv \[spacepirate-custom\]\ sample 'Default'
+: 1721508637:0;..
+: 1721508701:0;ll
+: 1721508798:0;cd style
+: 1721508800:0;l
+: 1721508823:0;smv \[spacepirate-custom\]\ sample.css 'Default'
+: 1721508829:0;mv \[spacepirate-custom\]\ sample.css 'Default'
+: 1721508995:0;..
+: 1721508996:0;ll
+: 1721509005:0;cd rofi
+: 1721509006:0;ll
+: 1721509025:0;nano config-search.rasi
+: 1721509042:0;nano config.rasi
+: 1721509062:0;nano master-config.rasi
+: 1721509213:0;nnn
+: 1721509578:0;reboot
+: 1721509673:0;nnn
+: 1721509687:0;cd .config/waybar
+: 1721509688:0;ls
+: 1721509693:0;nano style
+: 1721509698:0;nano style.css
+: 1721509710:0;cd style
+: 1721509710:0;ls
+: 1721509714:0;nano Default
+: 1721509737:0;mv Default 'Default.css'
+: 1721510263:0;paru -S vscodium
+: 1721511297:0;cd .config/hypr
+: 1721511298:0;ls
+: 1721511300:0;cd configs
+: 1721511302:0;ll
+: 1721511304:0;..
+: 1721511308:0;cd UserConfigs
+: 1721511309:0;ls
+: 1721511321:0;..
+: 1721511321:0;ll
+: 1721511334:0;cd configs
+: 1721511335:0;ll
+: 1721511338:0;nano Keybinds.conf
+: 1721511389:0;nano .config/hypr/UserConfigs/UserKeybinds.conf
+: 1721511754:0;nnn
+: 1721511773:0;builtin cd -- /home/spacepirate/git/Arch-Hyprland/JaKooLit-Hyprland-Dots/config/ags/modules/.miscutils
+: 1721511788:0;cd .config/hypr
+: 1721511789:0;ll
+: 1721511797:0;nano pyprland.toml
+: 1721511860:0;cp pyprland.toml pyprland.toml.bak
+: 1721511862:0;nano pyprland.toml
+: 1721512015:0;cd git
+: 1721512098:0;paru -S xclip
+: 1721512137:0;git clone https://github.com/domc159/hyperionOS.git
+: 1721512145:0;cd hyperionOS
+: 1721512146:0;ls
+: 1721512230:0;cd config
+: 1721512231:0;ll
+: 1721512249:0;sudo cp -r kitty ~/.config
+: 1721512492:0;cd .config/hypr
+: 1721512493:0;ll
+: 1721512504:0;cd UserConfigs
+: 1721512506:0;ls
+: 1721512510:0;ll
+: 1721512680:0;shutdown now
+: 1721574745:0;nnn
+: 1721653923:0;fastfetch
+: 1721654040:0;mirror
+: 1721654123:0;sudo pacman -Syu
+: 1721654147:0;sudo pacman -Rns kitty
+: 1721654212:0;sudo pacman -Rns terminator
+: 1721654448:0;sudo pacman -Syyu
+: 1721654475:0;sudo pacman -S optimus-manager nvidia nvidia-utils
+: 1721654578:0;paru -S optimus-manager-git
+: 1721654673:0;sudo nano /etc/optimus-manager/optimus-manager.conf\
+
+: 1721654737:0;sudo systemctl enable optimus-manager
+: 1721654744:0;sudo systemctl start optimus-manager
+: 1721654761:0;reboot
+: 1721654903:0;sudo systemctl status optimus-manager
+: 1721654929:0;optimus-manager --status
+: 1721655012:0;paru -S powertop tlp thermald
+: 1721655026:0;sudo systemctl enable tlp
+: 1721655034:0;sudo systemctl enable thermald
+: 1721655040:0;sudo systemctl start tlp
+: 1721655046:0;sudo systemctl start thermald
+: 1721655065:0;sudo powertop --auto-tune
+: 1721655166:0;paru -S cpupower
+: 1721655485:0;sudo systemctl start cpupower
+: 1721656468:0;sudo powertop --auto-tune
+: 1721656551:0;ls /lib/modules/$(uname -r)/kernel/drivers/cpufreq\
+
+: 1721656579:0;Glede na izpis iz PowerTOP in napako `modprobe cpufreq_stats failed`, boste morali preveriti in omogoƒÉ≠iti module za upravljanje frekvenc procesorja. Prav tako je smiselno urediti druge konfiguracije za optimizacijo porabe energije.\
+\
+1. **OmogoƒÉ≠anje modulov CPU**:\
+\
+   Preverite, ali so na voljo moduli za upravljanje frekvenc procesorja:\
+   ```sh\
+   ls /lib/modules/$(uname -r)/kernel/drivers/cpufreq\
+   ```\
+\
+   ƒÉ¨e so moduli prisotni, jih nalo≈æite:\
+   ```sh\
+   sudo modprobe cpufreq_stats\
+   sudo modprobe cpufreq_powersave\
+   sudo modprobe cpufreq_ondemand\
+   ```\
+\
+   Dodajte module v `/etc/modules-load.d/cpufreq.conf`, da se samodejno nalo≈æijo ob zagonu:\
+   ```sh\
+   echo -e "cpufreq_stats\ncpufreq_powersave\ncpufreq_ondemand" | sudo tee /etc/modules-load.d/cpufreq.conf\
+   ```\
+\
+2. **Konfiguracija Powertop**:\
+\
+   Da bi Powertop pravilno deloval in shranjeval nastavitve, ustvarite mapo in nastavite dovoljenja:\
+   ```sh\
+   sudo mkdir -p /var/cache/powertop\
+   sudo touch /var/cache/powertop/saved_parameters.powertop\
+   sudo chown $USER:$USER /var/cache/powertop/saved_parameters.powertop\
+   ```\
+\
+   Nato ponovno za≈æenite Powertop z ukazom:\
+   ```sh\
+   sudo powertop --auto-tune\
+   ```\
+\
+3. **Namestitev in konfiguracija TLP**:\
+\
+   ƒÉ¨e ≈ÉÅe nimate name≈ÉÅƒÉ≠enega TLP, ga namestite:\
+   ```sh\
+   sudo pacman -S tlp tlp-rdw\
+   ```\
+\
+   OmogoƒÉ≠ite in za≈æenite TLP storitev:\
+   ```sh\
+   sudo systemctl enable tlp\
+   sudo systemctl start tlp\
+   ```\
+\
+   TLP samodejno optimizira porabo energije, vendar ga lahko dodatno prilagodite v datoteki `/etc/tlp.conf`.\
+\
+4. **OnemogoƒÉ≠anje nepotrebnih storitev**:\
+\
+   Preglejte zagnane storitve in onemogoƒÉ≠ite tiste, ki jih ne potrebujete:\
+   ```sh\
+   systemctl list-unit-files --state=enabled\
+   ```\
+\
+   OnemogoƒÉ≠ite nepotrebne storitve, na primer:\
+   ```sh\
+   sudo systemctl disable bluetooth\
+   sudo systemctl disable cups\
+   ```\
+\
+5. **Nastavitve grafiƒÉ≠ne kartice**:\
+\
+   ƒÉ¨e uporabljate integrirano grafiko, se prepriƒÉ≠ajte, da Nvidia kartica ni v uporabi, ko ni potrebna. Preverite z ukazom:\
+   ```sh\
+   optimus-manager --status\
+   ```\
+\
+   PrepriƒÉ≠ajte se, da je `startup_mode` nastavljen na `integrated` v `/etc/optimus-manager/optimus-manager.conf`.\
+\
+6. **Uporaba ustreznega governorja za CPU**:\
+\
+   Namestite `cpupower`, ƒÉ≠e ≈ÉÅe ni name≈ÉÅƒÉ≠en:\
+   ```sh\
+   sudo pacman -S cpupower\
+   ```\
+\
+   Nastavite governor na `powersave`:\
+   ```sh\
+   sudo cpupower frequency-set -g powersave\
+   ```\
+\
+   OmogoƒÉ≠ite in za≈æenite `cpupower` storitev:\
+   ```sh\
+   sudo systemctl enable cpupower\
+   sudo systemctl start cpupower\
+   ```\
+\
+Po izvedbi teh korakov ponovno preverite porabo energije. ƒÉ¨e te≈æava ≈ÉÅe vedno obstaja, lahko preuƒÉ≠ite dodatne mo≈ænosti, kot so prilagoditev jedra ali uporaba drugih orodij za nadzor porabe energije.
+: 1721656618:0;Glede na izpis iz PowerTOP in napako `modprobe cpufreq_stats failed`, boste morali preveriti in omogoƒÉ≠iti module za upravljanje frekvenc procesorja. Prav tako je smiselno urediti druge konfiguracije za optimizacijo porabe energije.\
+\
+1. **OmogoƒÉ≠anje modulov CPU**:\
+\
+   Preverite, ali so na voljo moduli za upravljanje frekvenc procesorja:\
+   ```sh\
+   ls /lib/modules/$(uname -r)/kernel/drivers/cpufreq\
+   ```\
+\
+   ƒÉ¨e so moduli prisotni, jih nalo≈æite:\
+   ```sh\
+   sudo modprobe cpufreq_stats\
+   sudo modprobe cpufreq_powersave\
+   sudo modprobe cpufreq_ondemand\
+   ```\
+\
+   Dodajte module v `/etc/modules-load.d/cpufreq.conf`, da se samodejno nalo≈æijo ob zagonu:\
+   ```sh\
+   echo -e "cpufreq_stats\ncpufreq_powersave\ncpufreq_ondemand" | sudo tee /etc/modules-load.d/cpufreq.conf\
+   ```\
+\
+2. **Konfiguracija Powertop**:\
+\
+   Da bi Powertop pravilno deloval in shranjeval nastavitve, ustvarite mapo in nastavite dovoljenja:\
+   ```sh\
+   sudo mkdir -p /var/cache/powertop\
+   sudo touch /var/cache/powertop/saved_parameters.powertop\
+   sudo chown $USER:$USER /var/cache/powertop/saved_parameters.powertop\
+   ```\
+\
+   Nato ponovno za≈æenite Powertop z ukazom:\
+   ```sh\
+   sudo powertop --auto-tune\
+   ```\
+\
+3. **Namestitev in konfiguracija TLP**:\
+\
+   ƒÉ¨e ≈ÉÅe nimate name≈ÉÅƒÉ≠enega TLP, ga namestite:\
+   ```sh\
+   sudo pacman -S tlp tlp-rdw\
+   ```\
+\
+   OmogoƒÉ≠ite in za≈æenite TLP storitev:\
+   ```sh\
+   sudo systemctl enable tlp\
+   sudo systemctl start tlp\
+   ```\
+\
+   TLP samodejno optimizira porabo energije, vendar ga lahko dodatno prilagodite v datoteki `/etc/tlp.conf`.\
+\
+4. **OnemogoƒÉ≠anje nepotrebnih storitev**:\
+\
+   Preglejte zagnane storitve in onemogoƒÉ≠ite tiste, ki jih ne potrebujete:\
+   ```sh\
+   systemctl list-unit-files --state=enabled\
+   ```\
+\
+   OnemogoƒÉ≠ite nepotrebne storitve, na primer:\
+   ```sh\
+   sudo systemctl disable bluetooth\
+   sudo systemctl disable cups\
+   ```\
+\
+5. **Nastavitve grafiƒÉ≠ne kartice**:\
+\
+   ƒÉ¨e uporabljate integrirano grafiko, se prepriƒÉ≠ajte, da Nvidia kartica ni v uporabi, ko ni potrebna. Preverite z ukazom:\
+   ```sh\
+   optimus-manager --status\
+   ```\
+\
+   PrepriƒÉ≠ajte se, da je `startup_mode` nastavljen na `integrated` v `/etc/optimus-manager/optimus-manager.conf`.\
+\
+6. **Uporaba ustreznega governorja za CPU**:\
+\
+   Namestite `cpupower`, ƒÉ≠e ≈ÉÅe ni name≈ÉÅƒÉ≠en:\
+   ```sh\
+   sudo pacman -S cpupower\
+   ```\
+\
+   Nastavite governor na `powersave`:\
+   ```sh\
+   sudo cpupower frequency-set -g powersave\
+   ```\
+\
+   OmogoƒÉ≠ite in za≈æenite `cpupower` storitev:\
+   ```sh\
+   sudo systemctl enable cpupower\
+   sudo systemctl start cpupower\
+   ```\
+\
+Po izvedbi teh korakov ponovno preverite porabo energije. ƒÉ¨e te≈æava ≈ÉÅe vedno obstaja, lahko preuƒÉ≠ite dodatne mo≈ænosti, kot so prilagoditev jedra ali uporaba drugih orodij za nadzor porabe energije\
+
+: 1721656660:0;echo -e "cpufreq_stats\ncpufreq_powersave\ncpufreq_ondemand" | sudo tee /etc/modules-load.d/cpufreq.conf\
+
+: 1721656683:0;reboot
+: 1721656765:0;echo -e "cpufreq_stats\ncpufreq_powersave\ncpufreq_ondemand" | sudo tee /etc/modules-load.d/cpufreq.conf\
+
+: 1721656776:0;sudo powertop --auto-tune
+: 1721656789:0;powertop
+: 1721656805:0;sudo powertop
+: 1721657266:0;sudo powertop --auto-tune
+: 1721657343:0;sudo powertop --calibrate
+: 1721658274:0;sudo powertop --auto-tune
+: 1721658358:0;sudo nano /etc/systemd/system/powertop.service
+: 1721658382:0;sudo systemctl enable powertop.service
+: 1721658399:0;sudo systemctl start powertop.service
+: 1721658450:0;sudo powertop --calibrate
+: 1721661846:0;sudo powertop --auto-tune
+: 1721663436:0;sudo powertop --calibrate
+: 1721664264:0;sudo powertop --auto-tune
+: 1721666022:0;waybar
+: 1721666062:0;nano .config/hypr/UserConfigs/UserKeybinds.conf
+: 1721666083:0;cd .config/hypr
+: 1721666083:0;ls
+: 1721666085:0;l
+: 1721666087:0;ll
+: 1721666092:0;cd configs
+: 1721666095:0;nano Keybinds.conf
+: 1721666163:0;thermald
+: 1721666166:0;sudo thermald
+: 1721666527:0;sudo thermald help
+: 1721666534:0;sudo thermald -h
+: 1721667299:0;cd Archy
+: 1721667318:0;git clone https://github.com/JaKooLit/Arch-Hyprland.git
+: 1721667690:0;cd assets
+: 1721667693:0;ls
+: 1721667695:0;cd ..
+: 1721667696:0;ll
+: 1721667706:0;cd install-scripts
+: 1721667725:0;ll
+: 1721667730:0;nano bluetooth.sh
+: 1721667775:0;nano 00-
+: 1721667779:0;nano 00-base.sh
+: 1721667799:0;nano 00-hypr-pkgs.sh
+: 1721670961:0;nano bluetooth.sh
+: 1721670967:0;nano 00-base.sh
+: 1721671287:0;nano dotfiles.sh
+: 1721672894:0;sudo powertop --calibrate
+: 1721674208:0;sudo powertop --auto-tune
+: 1721674630:0;sudo powertop --calibrate
+: 1721675551:0;paru -S thunar
+: 1721678034:0;sudo powertop --auto-tune
+: 1721678083:0;sudo powertop --calibrate
+: 1721679833:0;curl -s https://api.github.com/repos/JaKooLit/Hyprland-Dots/releases/latest | grep "tag_name" | cut -d '"' -f 4 | sed 's/v//'
+: 1721681404:0;sudo powertop --auto-tune
+: 1721681524:0;shutdown now
+: 1721711136:0;sudo powertop --auto-tune
+: 1721711173:0;\
+
+: 1721711293:0;sudo pacman -S linux-headers
+: 1721711457:0;sudo modprobe cpufreq_stats
+: 1721711514:0;reboot
+: 1721711597:0;sudo modprobe cpufreq_stats
+: 1721711650:0;sudo pacman -S base-devel linux-headers git
+: 1721711780:0;sudo grub-mkconfig -o /boot/grub/grub.cfg\
+
+: 1721711791:0;reboot
+: 1721712255:0;cd .config/waybar
+: 1721712258:0;ll
+: 1721712272:0;nano config
+: 1721712319:0;cd configs
+: 1721712320:0;ll
+: 1721712324:0;nano Default
+: 1721712362:0;nano .config/waybar/modules
+: 1721712485:0;waybar
+: 1721713038:0;l
+: 1721713039:0;ll
+: 1721713043:0;..
+: 1721713044:0;l
+: 1721713230:0;nano .cp
+: 1721713239:0;nano .config/hypr/UserConfigs/UserKeybinds.conf
+: 1721713328:0;cd .config/kitty
+: 1721713336:0;cd .config
+: 1721713338:0;ll
+: 1721713476:0;cd .config/kitty
+: 1721713477:0;ll
+: 1721713481:0;nano kitty.conf
+: 1721713646:0;paru -S kitty
+: 1721714293:0;sudo powertop --auto-tune
+: 1721714373:0;sudo bootctl update
+: 1721714380:0;reboot
+: 1721714596:0;zcat /proc/config.gz > .config\
+
+: 1721714625:0;zcat /proc/config.gz > kernel_config\
+
+: 1721714633:0;make menuconfig KCONFIG_ALLCONFIG=kernel_config\
+
+: 1721714657:0;sudo pacman -S base-devel linux-headers git
+: 1721714785:0;sudo pacman -S linux-zen linux-zen-headers
+: 1721715211:0;su tarcinakubik
+: 1721715213:0;su
+: 1721715441:0;sudo modprobe cpufreq_stats
+: 1721715665:0;tlp
+: 1721715813:0;paru -S tlp-rdw
+: 1721715839:0;sudo systemctl status tlp
+: 1721715864:0;sudo systemctl enable tlp-sleep
+: 1721715890:0;sudo nano /etc/tlp.conf
+: 1721716516:0;sudo systemctl restart tlp
+: 1721716640:0;reboot
+: 1721716807:0;sudo pacman -Rns tlp
+: 1721716819:0;sudo pacman -Rns tlp tlp-rdw
+: 1721716846:0;paru -S power-profiles-daemon
+: 1721716968:0;paru -Rns power-profiles-daemon
+: 1721716976:0;sudo pacman -S tlp tlp-rdw
+: 1721716992:0;sudo nano /etc/tlp.conf
+: 1721718294:0;sudo systemctl restart tlp
+: 1721718305:0;sudo systemctl status tlp
+: 1721718308:0;sudo systemctl restart tlp
+: 1721718463:0;sudo tlp bat
+: 1721718658:0;sudo tlp recalibrate
+: 1721718669:0;thermald
+: 1721718709:0;sensors
+: 1721718848:0;paru -S auto-cpufreq
+: 1721718894:0;sudo powertop --auto-tune
+: 1721718959:0;sudo systemctl status auto-cpufreq.service
+: 1721719434:0;sudo poewr
+: 1721719440:0;sudo powertop
+: 1721719765:0;nano .config/waybar/configs/\[spacepirate-custom\]\ sample
+: 1721719785:0;nano .config/waybar/configs/Default
+: 1721719867:0;paru -S cava
+: 1721720093:0;sudo powertop
+: 1721720148:0;systemctl stop auto-cpufreq
+: 1721720167:0;systemctl disable auto-cpufreq
+: 1721720657:0;systemctl --user stop pipewire
+: 1721720706:0;reboot
+: 1721720774:0;tlp
+: 1721720785:0;tlp true
+: 1721720791:0;sudo tlp true
+: 1721721624:0;sudo powertop
+: 1721722296:0;brightnessctl
+: 1721722306:0;brightnessctl -h
+: 1721723140:0;cd .config/hypr
+: 1721723141:0;ls
+: 1721723144:0;cd configs
+: 1721723146:0;ll
+: 1721723149:0;..
+: 1721723155:0;cd UserConfigs
+: 1721723156:0;ll
+: 1721723160:0;nano Monitors.conf
+: 1721723238:0;hyprctl monitor
+: 1721723248:0;hyprctl monitors
+: 1721723511:0;wayland-info
+: 1721723514:0;xrandr
+: 1721726042:0;sudo powertop
+: 1721726779:0;kill 1530
+: 1721726934:0;sudo iwconfig wlp82s0 power on
+: 1721727221:0;paru -S iwconfig
+: 1721727232:0;_iwconfig
+: 1721727239:0;iwconfig
+: 1721727243:0;ifconfig
+: 1721727339:0;sudo pacman -S wireless_tools 
+: 1721727547:0;sudo iwconfig wlp82s0 power on
+: 1721727607:0;iwconfig
+: 1721727619:0;sudo ifconfig enp0s31f6 down
+: 1721727627:0;sudo iwconfig enp0s31f6 down
+: 1721728941:0;ip a
+: 1721729445:0;sudo iwconfig wlp82s0 txpower 20
+: 1721729491:0;sudo iwconfig wlp82s0 txpower 10
+: 1721729513:0;sudo nano /etc/tlp.conf
+: 1721730536:0;reoot
+: 1721730538:0;reboot
+: 1721730685:0;sudo powertop
+: 1721730862:0;sudo iwconfig wlp82s0 txpower 10
+: 1721730868:0;iwconfig
+: 1721730886:0;sudo iwconfig wlp82s0 txpower 20
+: 1721730887:0;iwconfig
+: 1721730909:0;sudo iwconfig wlp82s0 txpower 5
+: 1721730911:0;iwconfig
+: 1721730935:0;sudo iwconfig wlp82s0 txpower 50mw
+: 1721730937:0;iwconfig
+: 1721730945:0;sudo iwconfig wlp82s0 txpower 10mw
+: 1721730947:0;iwconfig
+: 1721730954:0;sudo iwconfig wlp82s0 txpower 5mw
+: 1721730955:0;iwconfig
+: 1721732742:0;sudo powertop
+: 1721732917:0;sudo tlp bat
+: 1721732930:0;sudo systemctl status tlp
+: 1721732937:0;sudo tlp bat
+: 1721733010:0;sudo iwconfig wlp82s0 power on
+: 1721733020:0;sudo iwconfig
+: 1721733034:0;sudo iwconfig wlp82s0 txpower 10
+: 1721733234:0;sudo iwconfig enp0s31f6 txpower 0
+: 1721733255:0;sudo iwconfig enp0s31f6 power down
+: 1721733275:0;ip a
+: 1721733475:0;‚É¥É¨‚É¥Ä[spacepirate@archy] - [~] - [Tue Jul 23, 13:10]\
+‚É¥É¥‚É¥Ä[$] <> sudo iwconfig\
+lo        no wireless extensions.\
+\
+enp0s31f6  no wireless extensions.\
+\
+wlp82s0   IEEE 802.11  ESSID:"FritzBox7530"\
+          Mode:Managed  Frequency:5.58 GHz  Access Point: 3C:37:12:70:E1:4F\
+          Bit Rate=234 Mb/s   Tx-Power=7 dBm\
+          Retry short limit:7   RTS thr:off   Fragment thr:off\
+          Encryption key:off\
+          Power Management:on\
+          Link Quality=50/70  Signal level=-60 dBm\
+          Rx invalid nwid:0  Rx invalid crypt:0  Rx invalid frag:0\
+          Tx excessive retries:0  Invalid misc:3   Missed beacon:0\
+\
+‚É¥É¨‚É¥Ä[spacepirate@archy] - [~] - [Tue Jul 23, 13:10]\
+‚É¥É¥‚É¥Ä[$] <> sudo iwconfig wlp82s0 txpower 10\
+‚É¥É¨‚É¥Ä[spacepirate@archy] - [~] - [Tue Jul 23, 13:10]\
+‚É¥É¥‚É¥Ä[$] <> sudo iwconfig enp0s31f6 txpower 0\
+Error for wireless request "Set Tx Power" (8B26) :\
+    SET failed on device enp0s31f6 ; Operation not supported.\
+‚É¥É¨‚É¥Ä[spacepirate@archy] - [~] - [Tue Jul 23, 13:13]\
+‚É¥É¥‚É¥Ä[$] <> sudo iwconfig enp0s31f6 power down\
+Error for wireless request "Set Power Management" (8B2C) :\
+    invalid argument "down".\
+‚É¥É¨‚É¥Ä[spacepirate@archy] - [~] - [Tue Jul 23, 13:14]\
+‚É¥É¥‚É¥Ä[$] <> ip a\
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000\
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\
+    inet 127.0.0.1/8 scope host lo\
+       valid_lft forever preferred_lft forever\
+    inet6 ::1/128 scope host noprefixroute\
+       valid_lft forever preferred_lft forever\
+2: enp0s31f6: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc fq_codel state DOWN group default qlen 1000\
+    link/ether 48:2a:e3:8b:cc:51 brd ff:ff:ff:ff:ff:ff\
+3: wlp82s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000\
+    link/ether e0:d4:e8:00:75:e9 brd ff:ff:ff:ff:ff:ff\
+    inet 192.168.178.30/24 brd 192.168.178.255 scope global dynamic noprefixroute wlp82s0\
+       valid_lft 86098sec preferred_lft 86098sec\
+    inet6 fd00::1e0c:93d0:af9c:1ef3/64 scope global dynamic noprefixroute\
+       valid_lft 6660sec preferred_lft 3060sec\
+    inet6 fe80::165f:f59e:c046:2fc0/64 scope link noprefixroute\
+       valid_lft forever preferred_lft forever
+: 1721733487:0;sudo modprobe -r e1000e
+: 1721733502:0;sudo modprobe e1000e SmartPowerDownEnable=1
+: 1721733530:0;sudo ethtool -s enp0s31f6 wol g
+: 1721733544:0;paru -S ethtool
+: 1721733639:0;sudo ethtool -s enp0s31f6 wol g
+: 1721733662:0;sudo ethtool -s enp0s31f6 speed 1000 duplex full autoneg on
+: 1721734343:0;reboot
+: 1721734457:0;sudo powertop
+: 1721735220:0;OA
+: 1721735223:0;sudo powertop
+: 1721737884:0;shutdown now
+: 1721934360:0;sudo nano /etc/modprobe.d/blacklist-nvidia.conf\
+
+: 1721934403:0;sudo update-initramfs -u\
+
+: 1721934433:0;samo imam arch linux
+: 1721934463:0;sudo pacman -S bbswitch\
+
+: 1721934517:0;sudo nano /etc/modprobe.d/bbswitch.conf
+: 1721934549:0;sudo modprobe bbswitch\
+
+: 1721934639:0;cat /proc/acpi/bbswitch\
+
+: 1721934715:0;reboot
+: 1721934821:0;cat /proc/acpi/bbswitch\
+
+: 1721934826:0;sudo modprobe bbswitch\
+
+: 1721934833:0;cat /proc/acpi/bbswitch\
+
+: 1721935208:0;Vidim, da va≈ÉÅa grafiƒÉ≠na kartica NVIDIA T2000 ≈ÉÅe vedno deluje (`ON`) kljub uporabi `bbswitch`. Tukaj je nekaj dodatnih korakov, ki jih lahko poskusite, da jo popolnoma onemogoƒÉ≠ite:\
+\
+### 1. Preverite Bumblebee nastavitve\
+PrepriƒÉ≠ajte se, da je Bumblebee pravilno nastavljen in da storitev deluje:\
+\
+1. **Preverite stanje Bumblebee storitve**:\
+   ```bash\
+   systemctl status bumblebeed\
+   ```\
+\
+2. **PrepriƒÉ≠ajte se, da je `bbswitch` modul nalo≈æen**:\
+   ```bash\
+   lsmod | grep bbswitch\
+   ```\
+\
+### 2. RoƒÉ≠ni izklop z `bbswitch`\
+Lahko poskusite roƒÉ≠no izklopiti grafiƒÉ≠no kartico z uporabo `bbswitch`:\
+\
+1. **RoƒÉ≠ni izklop kartice**:\
+   ```bash\
+   sudo tee /proc/acpi/bbswitch <<<OFF\
+   ```\
+\
+2. **Preverite stanje po izklopu**:\
+   ```bash\
+   cat /proc/acpi/bbswitch\
+   ```\
+\
+### 3. Preverite nastavitve BIOS-a\
+Preverite BIOS nastavitve in se prepriƒÉ≠ajte, da je mo≈ænost preklopa grafiƒÉ≠ne kartice omogoƒÉ≠ena.\
+\
+### 4. Preverite `xorg.conf` konfiguracijo\
+PrepriƒÉ≠ajte se, da `xorg.conf` datoteka ne uporablja NVIDIA grafiƒÉ≠ne kartice:\
+\
+1. **Ustvarite ali uredite `xorg.conf` konfiguracijsko datoteko**:\
+   ```bash\
+   sudo nano /etc/X11/xorg.conf.d/10-intel.conf\
+   ```\
+\
+2. **Dodajte ali uredite naslednjo konfiguracijo**:\
+   ```plaintext\
+   Section "Device"\
+       Identifier  "Intel Graphics"\
+       Driver      "intel"\
+   EndSection\
+   ```\
+\
+### 5. Preverite Power Management nastavitve\
+PrepriƒÉ≠ajte se, da so omogoƒÉ≠ene pravilne nastavitve za upravljanje porabe energije:\
+\
+1. **Namestite TLP** (ƒÉ≠e ≈ÉÅe ni name≈ÉÅƒÉ≠en):\
+   ```bash\
+   sudo pacman -S tlp\
+   ```\
+\
+2. **OmogoƒÉ≠ite in za≈æenite TLP storitev**:\
+   ```bash\
+   sudo systemctl enable tlp\
+   sudo systemctl start tlp\
+   ```\
+\
+3. **Preverite nastavitve TLP**:\
+   - PrepriƒÉ≠ajte se, da so konfiguracije pravilno nastavljene v `/etc/tlp.conf`.\
+\
+### 6. OnemogoƒÉ≠ite NVIDIA gonilnike\
+PrepriƒÉ≠ajte se, da so NVIDIA gonilniki onemogoƒÉ≠eni:\
+\
+1. **Ustvarite konfiguracijsko datoteko za `modprobe`**:\
+   ```bash\
+   sudo nano /etc/modprobe.d/blacklist-nvidia.conf\
+   ```\
+\
+2. **Dodajte naslednje vrstice**:\
+   ```plaintext\
+   blacklist nouveau\
+   blacklist nvidia\
+   blacklist nvidia_drm\
+   blacklist nvidia_uvm\
+   blacklist nvidia_modeset\
+   ```\
+\
+3. **Posodobite initramfs**:\
+   ```bash\
+   sudo mkinitcpio -p linux\
+   ```\
+\
+4. **Ponovni zagon sistema**:\
+   - Ponovno za≈æenite raƒÉ≠unalnik, da se spremembe uveljavijo.\
+\
+ƒÉ¨e po teh korakih kartica ≈ÉÅe vedno deluje, morda obstaja te≈æava s strojno opremo ali BIOS-om, ki prepreƒÉ≠uje popoln izklop kartice. Preverite tudi, ƒÉ≠e obstajajo posodobitve za BIOS ali firmware, ki bi lahko odpravile te≈æave
+: 1721935260:0;sudo nano /etc/modprobe.d/blacklist-nvidia.conf\
+
+: 1721935274:0;sudo mkinitcpio -p linux\
+
+: 1721935366:0;reboot
+: 1721942149:0;cd Documents
+: 1721942155:0;pacman -Qqe > paketi.txt\
+
+: 1721942263:0;sudo pacman -Rns libva-nvidia-driver-git nvidia-dkms nvidia-settings optimus-manager-git\
+
+: 1721942526:0;reboot
+: 1721942878:0;sudo powertop
+: 1721942908:0;sudo tlp bat
+: 1721997189:0;sudo pacman -S gparted
+: 1721997250:0;gparted
+: 1721997276:0;reboot
+: 1722402179:0;sudo pacman -Q > packets.txt
+: 1722402184:0;ls
+: 1722403768:0;nano paketki.txt
