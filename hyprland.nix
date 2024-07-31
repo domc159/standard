@@ -109,6 +109,9 @@ let
     pkgs.yt-dlp
   ];
 in {
+  imports = [
+    ./arch.nix
+  ];
 
   environment.systemPackages = with pkgs; hyprlandDeps;
 
@@ -136,6 +139,11 @@ in {
   hardware.pulseaudio.package = pkgs.pipewire;
   hardware.pulseaudio.support32Bit = true;
 
-  programs.zsh.enable = true;
-  programs.zsh.ohMyZsh.enable = true;
+  programs.zsh = {
+    enable = true;
+    ohMyZsh.enable = true;
+    enableDefaultShell = true;
+  };
+
+  users.defaultUserShell = pkgs.zsh;
 }
